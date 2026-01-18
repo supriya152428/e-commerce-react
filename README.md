@@ -1,20 +1,30 @@
 # E-Commerce React Project
 
-A simple e-commerce website built with React. Browse products, view details, add to cart or wishlist, fully responsive on desktop and mobile.
+A responsive e-commerce web application built using React. Users can browse products by category, view detailed product information, and manage items in their cart and wishlist. The application is optimized for both desktop and mobile devices.
 
-**Features:** Browse products by category, view product details, add to Cart and Wishlist, responsive design, navigation with React Router, state management with Context API.
+## Features
+- Browse products by category  
+- View detailed product pages  
+- Add products to Cart and Wishlist  
+- Fully responsive UI  
+- Client-side routing using React Router  
+- Global state management using Context API  
 
-**Tech Used:** React, JavaScript, CSS / Tailwind, React Router, Context API
+## Tech Stack
+- React  
+- JavaScript  
+- CSS / Tailwind CSS  
+- React Router  
+- Context API  
 
-**How to Run Locally:**  
+## How to Run Locally
 1. `git clone https://github.com/supriya152428/e-commerce-react.git`  
 2. `cd e-commerce-react`  
 3. `npm install`  
 4. `npm start`  
-5. Open [http://localhost:5173](http://localhost:5173)  
+5. Open `http://localhost:5173` in your browser  
 
-**Author:**  
-Supriya Yadav  
-GitHub: [supriya152428](https://github.com/supriya152428)  
+## Author
+**Supriya Yadav**  
+GitHub: https://github.com/supriya152428  
 Email: supriyayadav401@gmail.com
-
