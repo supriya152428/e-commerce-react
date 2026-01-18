@@ -13,11 +13,8 @@ A simple e-commerce website built with React. Browse products, view details, add
 4. `npm start`  
 5. Open [http://localhost:5173](http://localhost:5173)  
 
-*Make sure Node.js is installed.*
-
-**Live Project (Optional):** [Your Live Project Link](https://YOUR-LIVE-PROJECT-LINK)
-
 **Author:**  
 Supriya Yadav  
 GitHub: [supriya152428](https://github.com/supriya152428)  
 Email: supriyayadav401@gmail.com
+
