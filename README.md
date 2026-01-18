@@ -5,7 +5,6 @@ A simple e-commerce website built with React. Browse products, view details, add
 **Features:** Browse products by category, view product details, add to Cart and Wishlist, responsive design, navigation with React Router, state management with Context API.
 
 **Tech Used:** React, JavaScript, CSS / Tailwind, React Router, Context API
-**Demo Video:** [Watch Project Demo](./media/387ec393-14b7-46bc-a95f-1013ea527de9.mp4)
 
 **How to Run Locally:**  
 1. `git clone https://github.com/supriya152428/e-commerce-react.git`  
