@@ -12,6 +12,18 @@ A responsive e-commerce web application built using React. Users can browse prod
 
 ## Website Preview
 <img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/a7168cd4-7ceb-4fe9-aa53-60316efc952a" />
+<img width="1888" height="913" alt="image" src="https://github.com/user-attachments/assets/40ef4862-864a-413b-b078-caeba962a6e7" />
+<img width="1892" height="916" alt="image" src="https://github.com/user-attachments/assets/6fdab7a7-b17d-4875-a5d3-55dfbf1ac5dd" />
+<img width="1887" height="912" alt="image" src="https://github.com/user-attachments/assets/12c1a85a-599a-4414-91c6-3198f63ab77f" />
+<img width="1888" height="916" alt="image" src="https://github.com/user-attachments/assets/3cd6072c-84b2-49c9-bdbf-20892a1964b8" />
+<img width="1892" height="923" alt="image" src="https://github.com/user-attachments/assets/0f97c127-2da3-4be8-b3df-7e96981f22f1" />
+<img width="1885" height="917" alt="image" src="https://github.com/user-attachments/assets/2933c383-7344-43e9-a764-4d49496f8754" />
+
+
+
+
+
+
 
 
 
