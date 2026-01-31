@@ -8,7 +8,24 @@ A responsive e-commerce web application built using React. Users can browse prod
 - Add products to Cart and Wishlist  
 - Fully responsive UI  
 - Client-side routing using React Router  
-- Global state management using Context API  
+- Global state management using Context API
+
+## Website Preview
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/a7168cd4-7ceb-4fe9-aa53-60316efc952a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tech Stack
 - React  
